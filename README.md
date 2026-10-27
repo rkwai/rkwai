@@ -5,6 +5,8 @@ I lead product and engineering for startups going AI-native. I work with exec te
 
 Through DataSaa: AI-native product engineering leadership, AI enablement for existing teams, and interim engineering leadership while you hire.
 
+Now: VP of Product Development at Pandoblox, leading AI enablement and turning the company AI-native.
+
 Previously: engineering leadership at Allergan Data Labs; Director of Ops Product and Engineering at Ruggable; VP, Technology Innovation at Cypress Creek Renewables. 22 years building software and data platforms.
 
 ### What's here
